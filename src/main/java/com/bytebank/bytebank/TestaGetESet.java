@@ -9,7 +9,7 @@ public class TestaGetESet {
         cliente1.setNome("Gustavo Almeida Freitas");
         System.out.println("Definido nome para a conta 1: " + cliente1.getNome());
 
-        Conta conta = new Conta(0,0);
+        Conta conta = new ContaCorrente(0,0);
 
         conta.setNumero(123);
         System.out.println(conta.getNumero());
