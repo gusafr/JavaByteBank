@@ -3,18 +3,16 @@ package com.bytebank.bytebank;
 public class TesteContas {
 
     public static void main(String[] args) {
+        ContaCorrente cc = new ContaCorrente(111,111);
+        cc.deposita(100.00);
 
-        Conta conta = new Conta(1337, 23334);
+        ContaPoupanca cp = new ContaPoupanca(222,222);
+        cp.deposita(200.00);
 
-        conta.deposita(200.0);
+        cc.transfere(10.0, cp);
 
-        System.out.println(conta.getSaldo());
-
-        conta.setAgencia(570);
-
-        System.out.println(conta.getAgencia());
-
-        System.out.println("O total de contas é: " + Conta.getTotal());
+        System.out.println("CC: " + cc.getSaldo());
+        System.out.println("CP: " +cp.getSaldo());
 
     }
 

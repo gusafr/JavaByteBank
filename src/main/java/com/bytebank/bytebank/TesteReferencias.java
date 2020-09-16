@@ -11,13 +11,10 @@ public class TesteReferencias {
         Funcionario f1 = new Funcionario();
         f1.setSalario(2000.00);
 
-        EditorVideo ev1 = new EditorVideo();
-        ev1.setSalario(2500.00);
 
         ControleBonificacao controle = new ControleBonificacao();
         controle.registro(g1);
         controle.registro(f1);
-        controle.registro(ev1);
 
         System.out.println(controle.getSoma());
 
