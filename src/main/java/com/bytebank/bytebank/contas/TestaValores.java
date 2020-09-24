@@ -1,4 +1,7 @@
-package com.bytebank.bytebank;
+package com.bytebank.bytebank.contas;
+
+import com.bytebank.bytebank.contas.Conta;
+import com.bytebank.bytebank.contas.ContaCorrente;
 
 public class TestaValores {
 

@@ -1,5 +1,9 @@
 package com.bytebank.bytebank;
 
+import com.bytebank.bytebank.clientes.Cliente;
+import com.bytebank.bytebank.contas.Conta;
+import com.bytebank.bytebank.contas.ContaCorrente;
+
 public class TestaGetESet {
 
     public static void main(String[] args) {

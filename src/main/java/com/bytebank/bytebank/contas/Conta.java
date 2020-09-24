@@ -1,4 +1,6 @@
-package com.bytebank.bytebank;
+package com.bytebank.bytebank.contas;
+
+import com.bytebank.bytebank.clientes.Cliente;
 
 public abstract class Conta {
 

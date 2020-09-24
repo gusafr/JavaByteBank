@@ -1,5 +1,8 @@
 package com.bytebank.bytebank;
 
+import com.bytebank.bytebank.funcionarios.ControleBonificacao;
+import com.bytebank.bytebank.funcionarios.Gerente;
+
 public class TesteReferencias {
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-import com.bytebank.bytebank.Cliente;
+import com.bytebank.bytebank.clientes.Cliente;
 import org.junit.Test;
-import org.junit.Assert;
+
 import static org.junit.Assert.assertEquals;
 
 

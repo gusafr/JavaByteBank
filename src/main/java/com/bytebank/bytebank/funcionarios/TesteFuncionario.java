@@ -1,4 +1,4 @@
-package com.bytebank.bytebank;
+package com.bytebank.bytebank.funcionarios;
 
 public class TesteFuncionario {
 

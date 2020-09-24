@@ -1,4 +1,6 @@
-package com.bytebank.bytebank;
+package com.bytebank.bytebank.funcionarios;
+
+import com.bytebank.bytebank.funcionarios.Funcionario;
 
 public class ControleBonificacao {
 

@@ -1,5 +1,4 @@
-import com.bytebank.bytebank.Funcionario;
-import com.bytebank.bytebank.Gerente;
+import com.bytebank.bytebank.funcionarios.Gerente;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

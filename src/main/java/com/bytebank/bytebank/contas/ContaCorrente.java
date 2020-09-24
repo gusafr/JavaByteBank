@@ -1,4 +1,4 @@
-package com.bytebank.bytebank;
+package com.bytebank.bytebank.contas;
 
 public class ContaCorrente extends Conta {
     public ContaCorrente(int agencia, int numero) {
