@@ -1,4 +1,4 @@
-package com.bytebank.bytebank.contas;
+package com.bytebank.bytebank.testes;
 
 import com.bytebank.bytebank.contas.Conta;
 import com.bytebank.bytebank.contas.ContaCorrente;

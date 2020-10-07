@@ -1,4 +1,4 @@
-package com.bytebank.bytebank;
+package com.bytebank.bytebank.testes;
 
 import com.bytebank.bytebank.funcionarios.ControleBonificacao;
 import com.bytebank.bytebank.funcionarios.Gerente;

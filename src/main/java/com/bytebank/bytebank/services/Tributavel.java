@@ -1,4 +1,4 @@
-package com.bytebank.bytebank;
+package com.bytebank.bytebank.services;
 
 public interface Tributavel {
 

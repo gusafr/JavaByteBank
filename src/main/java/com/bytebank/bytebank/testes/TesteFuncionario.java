@@ -1,4 +1,6 @@
-package com.bytebank.bytebank.funcionarios;
+package com.bytebank.bytebank.testes;
+
+import com.bytebank.bytebank.funcionarios.Gerente;
 
 public class TesteFuncionario {
 

@@ -1,4 +1,4 @@
-package com.bytebank.bytebank.contas;
+package com.bytebank.bytebank.testes;
 
 import com.bytebank.bytebank.contas.ContaCorrente;
 import com.bytebank.bytebank.contas.ContaPoupanca;
@@ -6,6 +6,7 @@ import com.bytebank.bytebank.contas.ContaPoupanca;
 public class TesteContas {
 
     public static void main(String[] args) {
+
         ContaCorrente cc = new ContaCorrente(111,111);
         cc.deposita(100.00);
 
