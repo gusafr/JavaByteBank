@@ -1,4 +1,4 @@
-package com.bytebank.bytebank.pilha;
+package com.bytebank.bytebank.Excecoes;
 
 public class MinhaExcecao extends Exception {
 
